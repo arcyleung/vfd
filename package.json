@@ -1,0 +1,22 @@
+{
+    "name": "vfd",
+    "displayName": "VFD",
+    "description": "High voltage theme ^_^",
+    "version": "0.0.1",
+    "publisher": "arcyleung",
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "VFD",
+                "uiTheme": "vs-dark",
+                "path": "./themes/VFD-color-theme.json"
+            }
+        ]
+    }
+}
