@@ -4,6 +4,12 @@
     "description": "High voltage theme ^_^",
     "version": "0.0.1",
     "publisher": "arcyleung",
+    "repository": {
+        "repository": {
+            "type": "git",
+            "url": "https://github.com/arcyleung/vfd.git"
+          }
+    },
     "engines": {
         "vscode": "^1.56.0"
     },
